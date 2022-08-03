@@ -1,3 +1,3 @@
  ## tools
-    中文
+    中文GBK
  ## source
